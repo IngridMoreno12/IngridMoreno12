@@ -68,7 +68,6 @@ Habilidades & Tecnologias: `Google Sheets`, `Google Docs`, `Comunicação`, `Doc
     </td>
   </tr>
 </table>
---- 
 <br/>
 
 ### 🏆 GitHub Profile Trophy
@@ -85,7 +84,6 @@ Habilidades & Tecnologias: `Google Sheets`, `Google Docs`, `Comunicação`, `Doc
   </a>
 </p>
 
----
 
 <div align="center">
   <h3><b>📍 Visitas ao Perfil </b></h3>
