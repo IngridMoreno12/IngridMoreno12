@@ -1,8 +1,3 @@
-## oiee, tudo certo?
-
-entre dados, café e algumas boas horas gastas em livros e jogos, estou sempre aprendendo alguma coisa nova.
-aqui compartilho um pouco disso tudo.
-
 <br/>
 
 ### 🧠 Tecnologias & Ferramentas
